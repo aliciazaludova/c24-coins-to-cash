@@ -11,7 +11,7 @@ var dollarAmount = 0;
 // i want to strip down to the value of each coin
 var valueOfEach = {
     quarterValue: .25,
-    nickelValue: .50,
+    nickelValue: .05,
     dimeValue: .10,
     pennyValue: .01
 }
